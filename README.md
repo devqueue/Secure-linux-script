@@ -1,2 +1,2 @@
 # Secure-linux-script
-Run this bash script to secure your linux system but make sure you understand what the script does before you run it
+## Before runninng this script pls make sure you understand the changes it makes to you system
